@@ -40,3 +40,4 @@ public void tinhLuong(int namLamviec)
         System.out.println("Luong Nhan Vien"+ Luong);
     }
 }
+;
