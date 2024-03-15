@@ -6,4 +6,3 @@ public class TestEmployee {
         em.xuatThongTinNV();
     }
 }
-;
